@@ -1,7 +1,8 @@
 ---
 title: Angular
 ---
-## Angular
+## Angular 
+https://www.google.co.in/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwjK0dSM65DeAhXLro8KHUlsDu4QjRx6BAgBEAU&url=https%3A%2F%2Fangular.io%2Fpresskit&psig=AOvVaw2oZPVeM0IGYhjF3V3b1zR_&ust=1539981182767000
 
 AngularJS (versions 1.x) is a JavaScript based open source Framework. It is cross platform and used to develop Single Page Web Application (SPWA). AngularJS implements the MVC pattern to separate the logic , presentation and data components. It also uses dependency injection to make use of server-side services in client side applications.
 
