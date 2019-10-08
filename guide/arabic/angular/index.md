@@ -3,7 +3,6 @@ title: Angular
 localeTitle: زاوي
 ---
 ## زاوي
-![angular logo](https://angular.io/assets/images/logos/angular/angular.png)
 
 AngularJS (الإصدارات 1.x) هو إطار مفتوح المصدر يستند إلى JavaScript. هو منصة عبرية ويستخدم لتطوير تطبيق ويب صفحة واحدة (SPWA). تنفذ AngularJS نمط MVC لفصل مكونات المنطق والعرض والبيانات. كما يستخدم حقن التبعية للاستفادة من الخدمات من جانب الخادم في تطبيقات جانب العميل.
 
