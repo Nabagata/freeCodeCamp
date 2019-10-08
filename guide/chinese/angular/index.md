@@ -3,6 +3,7 @@ title: Angular
 localeTitle: 角
 ---
 ## 角
+![angular logo](https://angular.io/assets/images/logos/angular/angular.png)
 
 AngularJS（版本1.x）是一个基于JavaScript的开源框架。它是跨平台的，用于开发单页Web应用程序（SPWA）。 AngularJS实现MVC模式以分离逻辑，表示和数据组件。它还使用依赖注入来在客户端应用程序中使用服务器端服务。
 
