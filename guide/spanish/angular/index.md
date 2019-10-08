@@ -3,6 +3,7 @@ title: Angular
 localeTitle: Angular
 ---
 ## Angular
+![angular logo](https://angular.io/assets/images/logos/angular/angular.png)
 
 AngularJS (versiones 1.x) es un Framework de código abierto basado en JavaScript. Es multiplataforma y se utiliza para desarrollar una aplicación web de una sola página (SPWA). AngularJS implementa el patrón MVC para separar los componentes de lógica, presentación y datos. También utiliza la inyección de dependencia para hacer uso de los servicios del lado del servidor en las aplicaciones del lado del cliente.
 
